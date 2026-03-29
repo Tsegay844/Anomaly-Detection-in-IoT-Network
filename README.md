@@ -233,18 +233,3 @@ This project is part of academic research conducted at the **University of Pisa*
 
 ---
 
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tsegay844)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsegay844@gmail.com@example.com)
-
-**Project Link**: [https://github.com/Tsegay844/Machine-Learning-techniques-for-Anomaly-Detection-in-IoT](https://github.com/Tsegay844/Machine-Learning-techniques-for-Anomaly-Detection-in-IoT)
-
-
-<div align="center">
----
- 
-**Last Updated**: September 2, 2025  
-**Version**: 1.0.0
-
-</div>
