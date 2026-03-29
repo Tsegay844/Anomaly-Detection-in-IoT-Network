@@ -159,23 +159,23 @@ print(classification_report(y_test, predictions))
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 ### Model Performance Overview
 
 | Model | Accuracy | Type | Key Features |
 |-------|----------|------|--------------|
-| 🌳 **Decision Tree** | 100.0% | Tree-based | Interpretable rules |
-| 🎯 **Random Forest** | 100.0% | Ensemble | Multiple tree voting |
-| 🚀 **Gradient Boosting** | 100.0% | Ensemble | Sequential improvement |
-| 🧠 **Multi-Layer Perceptron** | 100.0% | Neural Network | Deep learning approach |
-| 📏 **k-Nearest Neighbors** | 99.9% | Instance-based | Distance-based classification |
-| 📊 **Naive Bayes** | 97.0% | Probabilistic | Feature independence assumption |
-| 📋 **Rule-Based** | 100.0% | Logic-based | Expert system approach |
+| **Decision Tree** | 100.0% | Tree-based | Interpretable rules |
+| **Random Forest** | 100.0% | Ensemble | Multiple tree voting |
+| **Gradient Boosting** | 100.0% | Ensemble | Sequential improvement |
+| **Multi-Layer Perceptron** | 100.0% | Neural Network | Deep learning approach |
+| **k-Nearest Neighbors** | 99.9% | Instance-based | Distance-based classification |
+| **Naive Bayes** | 97.0% | Probabilistic | Feature independence assumption |
+| **Rule-Based** | 100.0% | Logic-based | Expert system approach |
 
 ### Model Architectures
 
-#### 🧠 Multi-Layer Perceptron (MLP)
+#### Multi-Layer Perceptron (MLP)
 ```python
 MLPClassifier(
     hidden_layer_sizes=(100, 50, 25),
@@ -185,7 +185,7 @@ MLPClassifier(
 )
 ```
 
-#### 🌳 Random Forest Configuration
+#### Random Forest Configuration
 ```python
 RandomForestClassifier(
     n_estimators=100,
@@ -196,7 +196,7 @@ RandomForestClassifier(
 
 ---
 
-## 📈 Performance Results
+## Performance Results
 
 ### Cross-Validation Results
 
@@ -216,20 +216,20 @@ RandomForestClassifier(
 
 ### Key Achievements
 
-- ✅ **Perfect Classification**: 5 out of 7 models achieved 100% accuracy
-- ✅ **Robust Performance**: All models exceeded 97% accuracy
-- ✅ **Excellent Recall**: Superior anomaly detection capabilities
-- ✅ **Balanced Metrics**: High precision and recall across all models
+-  **Perfect Classification**: 5 out of 7 models achieved 100% accuracy
+-  **Robust Performance**: All models exceeded 97% accuracy
+-  **Excellent Recall**: Superior anomaly detection capabilities
+-  **Balanced Metrics**: High precision and recall across all models
 
 ---
 
 
 This project is part of academic research conducted at the **University of Pisa**. 
 
-- 📚 **Course**: Data Mining and Machine Learning
-- 🏛️ **Institution**: University of Pisa
-- 📅 **Year**: 2024
-- 🎓 **Program**: Artificial Inteligence and Data Engineering 
+-  **Course**: Data Mining and Machine Learning
+-  **Institution**: University of Pisa
+-  **Year**: 2024
+-  **Program**: Artificial Inteligence and Data Engineering 
 
 ---
 
