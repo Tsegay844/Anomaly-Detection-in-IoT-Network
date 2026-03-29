@@ -17,11 +17,11 @@
 
 ---
 
-## 📖 About The Project
+## About The Project
 
 This repository presents a comprehensive research project implementing **seven state-of-the-art machine learning algorithms** for anomaly detection in Internet of Things (IoT) environments. Developed as part of the Data Mining and Machine Learning curriculum at the University of Pisa, this project addresses the critical challenge of identifying anomalous patterns in IoT sensor data that may indicate security breaches, equipment failures, or system malfunctions.
 
-### 🎯 Key Objectives
+### Key Objectives
 
 - **Comparative Analysis**: Evaluate multiple ML algorithms for IoT anomaly detection
 - **Data Preprocessing**: Implement advanced preprocessing techniques including SMOTE balancing
@@ -30,7 +30,7 @@ This repository presents a comprehensive research project implementing **seven s
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 This project leverages cutting-edge technologies and libraries:
 
@@ -53,7 +53,7 @@ This project leverages cutting-edge technologies and libraries:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to get the project running on your local machine.
 
@@ -99,7 +99,7 @@ python --version
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### Quick Start
 
@@ -109,10 +109,10 @@ python --version
    ```
 
 2. **Follow the structured workflow:**
-   - 📊 **Data Exploration**: Understand dataset characteristics
-   - 🔧 **Preprocessing**: Clean data and engineer features
-   - 🤖 **Model Training**: Train seven different algorithms
-   - 📈 **Evaluation**: Analyze and compare performance
+   - **Data Exploration**: Understand dataset characteristics
+   - **Preprocessing**: Clean data and engineer features
+   - **Model Training**: Train seven different algorithms
+   - **Evaluation**: Analyze and compare performance
 
 
 
