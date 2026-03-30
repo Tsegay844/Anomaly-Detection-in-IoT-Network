@@ -193,34 +193,6 @@ RandomForestClassifier(
     max_depth=None
 )
 ```
-
----
-
-## Performance Results
-
-### Cross-Validation Results
-
-<div align="center">
-
-| Model | CV Accuracy | Precision | Recall | F1-Score |
-|-------|-------------|-----------|--------|----------|
-| Decision Tree | **100.0%** | 1.00 | 1.00 | 1.00 |
-| Random Forest | **100.0%** | 1.00 | 1.00 | 1.00 |
-| Gradient Boosting | **100.0%** | 1.00 | 1.00 | 1.00 |
-| MLP Neural Network | **100.0%** | 1.00 | 1.00 | 1.00 |
-| k-Nearest Neighbors | **99.9%** | 0.99 | 1.00 | 1.00 |
-| Naive Bayes | **97.0%** | 0.69 | 0.99 | 0.81 |
-| Rule-Based | **100.0%** | 1.00 | 1.00 | 1.00 |
-
-</div>
-
-### Key Achievements
-
--  **Perfect Classification**: 5 out of 7 models achieved 100% accuracy
--  **Robust Performance**: All models exceeded 97% accuracy
--  **Excellent Recall**: Superior anomaly detection capabilities
--  **Balanced Metrics**: High precision and recall across all models
-
 ---
 
 
