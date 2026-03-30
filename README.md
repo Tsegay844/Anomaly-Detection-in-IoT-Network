@@ -19,7 +19,7 @@
 
 ## About The Project
 
-This repository presents a comprehensive research project implementing **seven state-of-the-art machine learning algorithms** for anomaly detection in Internet of Things (IoT) environments. Developed as part of the Data Mining and Machine Learning curriculum at the University of Pisa, this project addresses the critical challenge of identifying anomalous patterns in IoT sensor data that may indicate security breaches, equipment failures, or system malfunctions.
+This repository presents a comprehensive research project on comparing **seven machine learning algorithms** for anomaly detection in Internet of Things (IoT) environments. Developed as part of the Data Mining and Machine Learning course at University of Pisa, this project addresses the critical challenge of identifying anomalous patterns in IoT sensor data that may indicate security breaches, equipment failures, or system malfunctions.
 
 ### Key Objectives
 
