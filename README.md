@@ -165,13 +165,13 @@ print(classification_report(y_test, predictions))
 
 | Model | Accuracy | Type | Key Features |
 |-------|----------|------|--------------|
-| **Decision Tree** | 100.0% | Tree-based | Interpretable rules |
-| **Random Forest** | 100.0% | Ensemble | Multiple tree voting |
-| **Gradient Boosting** | 100.0% | Ensemble | Sequential improvement |
-| **Multi-Layer Perceptron** | 100.0% | Neural Network | Deep learning approach |
+| **Decision Tree** | 98.0% | Tree-based | Interpretable rules |
+| **Random Forest** | 99.0% | Ensemble | Multiple tree voting |
+| **Gradient Boosting** | 99.6% | Ensemble | Sequential improvement |
+| **Multi-Layer Perceptron** | 99.9.0% | Neural Network | Deep learning approach |
 | **k-Nearest Neighbors** | 99.9% | Instance-based | Distance-based classification |
 | **Naive Bayes** | 97.0% | Probabilistic | Feature independence assumption |
-| **Rule-Based** | 100.0% | Logic-based | Expert system approach |
+| **Rule-Based** | 98.0% | Logic-based | Expert system approach |
 
 ### Model Architectures
 
