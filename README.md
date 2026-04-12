@@ -166,7 +166,7 @@ print(classification_report(y_test, predictions))
 | Model | Accuracy | Type | Key Features |
 |-------|----------|------|--------------|
 | **Decision Tree** | 98.0% | Tree-based | Interpretable rules |
-| **Random Forest** | 99.8% | Ensemble | Multiple tree voting |
+| **Random Forest** | 99.7% | Ensemble | Multiple tree voting |
 | **Gradient Boosting** | 99.6% | Ensemble | Sequential improvement |
 | **Multi-Layer Perceptron** | 99.9.0% | Neural Network | Deep learning approach |
 | **k-Nearest Neighbors** | 96.9% | Instance-based | Distance-based classification |
